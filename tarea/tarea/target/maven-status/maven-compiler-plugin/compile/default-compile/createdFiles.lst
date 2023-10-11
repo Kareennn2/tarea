@@ -1,0 +1,6 @@
+com\umariana\tarea\Registro.class
+servlets\SvIngresar.class
+servlets\SvEntrar.class
+com\umariana\tarea\resources\JavaEE8Resource.class
+com\umariana\tarea\JAXRSConfiguration.class
+com\umariana\tarea\metodos.class
